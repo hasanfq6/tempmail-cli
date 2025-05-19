@@ -19,7 +19,7 @@ pip install tempmail-cli
 Or install from source:
 
 ```bash
-git clone https://github.com/yourusername/tempmail-cli.git
+git clone https://github.com/hasanfq6/tempmail-cli.git
 cd tempmail-cli
 pip install -e .
 ```
